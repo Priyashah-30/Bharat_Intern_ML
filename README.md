@@ -1,3 +1,5 @@
-# House_Price_Prediction_Using_LinearRegression
-House Price Prediction Using Linear Regression 
-I've created this model as my 1st project of Bharat Intern
+# Bharat Intern - Machine Learning
+In this repo, I've posted code that I did as a Machine Learning Intern.
+There are 2 two codes in this repo
+1. House Price Prediction using Linear Regression
+2. Iris Classification
